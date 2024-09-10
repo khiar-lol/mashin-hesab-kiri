@@ -1,1 +1,1 @@
-# mashin-hesab-kiri
+# project
